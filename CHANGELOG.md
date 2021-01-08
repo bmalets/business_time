@@ -4,6 +4,10 @@
 
 PR authors, please add entries here.
 
+- PR#200 removed ruby 2.2.2 from `.travis.yml`
+- PR#200 added rubies 2.5.0, 2.6.0, 2.7.0, 3.0.0 to `.travis.yml`
+- PR#200 added sorted_set gem to dependencies list
+
 ## 0.9.3 2017-11-04
 - PR#165 - fixes an issue with 0.business_<x> calculations
 - PR#166 - added est for business_days.before edge case
